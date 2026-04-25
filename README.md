@@ -1,2 +1,2 @@
 # meus-exercicios-python-iniciante
-São questões simples para minha pessoa ter uma ser noção do meu progresso. 
+São questões simples para que minha pessoa possa ter uma noção do meu progresso. 
